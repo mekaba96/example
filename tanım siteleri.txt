@@ -2,7 +2,7 @@
 Jenkins
 10 soruda jenkins   https://medium.com/@yeliztaneroglu/10-soru-ile-jenkins-4a0
 interface           http://fuegotest.org/wiki/Jenkins_User_Interface
-Türkçe anlatim      https://www.onbirkod.com/jenkins-nedir-dunyanin-en-populer-ci-aracini-taniyalim/
+TÃ¼rkÃ§e anlatim      https://www.onbirkod.com/jenkins-nedir-dunyanin-en-populer-ci-aracini-taniyalim/
 
 Shell Script + Linux
 http://www.freeos.com/guides/lsst/
@@ -15,7 +15,7 @@ Linux alistirma
 https://aktif.net/tr/Aktif-Blog/Teknik-Makaleler/Yeni-Baslayanlar-icin-Basit-Linux-Komutlari
 http://www.freeos.com/guides/lsst/misc.htm#variexceans
 
-Linux sunucusundan memeory verisi çekme
+Linux sunucusundan memeory verisi Ã§ekme
 https://www.netinternet.com.tr/bilgi-bankasi/linux-sunucularda-memory-kullanimini-goruntuleme
 
 Temel SSH komutlari
@@ -32,3 +32,5 @@ PostgreSQL
 
 RESTAPI
 (Nedir?)    https://www.youtube.com/watch?v=Q-BpqyOT3a8
+
+kaan deneme
