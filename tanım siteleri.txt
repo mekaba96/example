@@ -1,0 +1,33 @@
+Jenkins
+10 soruda jenkins   https://medium.com/@yeliztaneroglu/10-soru-ile-jenkins-4a0
+interface           http://fuegotest.org/wiki/Jenkins_User_Interface
+Türkçe anlatim      https://www.onbirkod.com/jenkins-nedir-dunyanin-en-populer-ci-aracini-taniyalim/
+
+Shell Script + Linux
+http://www.freeos.com/guides/lsst/
+http://www.freeos.com/guides/lsst/ch02sec01.html
+
+Linux'a JDK kurulumu
+https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-linux-platforms.htm#JSJIG-GUID-ADC9C14A-5F51-4C32-802C-9639A947317F
+
+Linux alistirma
+https://aktif.net/tr/Aktif-Blog/Teknik-Makaleler/Yeni-Baslayanlar-icin-Basit-Linux-Komutlari
+http://www.freeos.com/guides/lsst/misc.htm#variexceans
+
+Linux sunucusundan memeory verisi çekme
+https://www.netinternet.com.tr/bilgi-bankasi/linux-sunucularda-memory-kullanimini-goruntuleme
+
+Temel SSH komutlari
+https://www.netinternet.com.tr/bilgi-bankasi/temel-ssh-komutlari
+
+cygwin
+https://ss64.com/bash/
+
+PostgreSQL
+(kurulum)   http://www.postgresqltutorial.com/install-postgresql/
+(komutlar)  http://www.postgresqltutorial.com/psql-commands/
+(Java)      http://www.postgresqltutorial.com/postgresql-jdbc/connecting-to-postgresql-database/
+(DataTypes) https://www.postgresql.org/docs/9.1/datatype.html
+
+RESTAPI
+(Nedir?)    https://www.youtube.com/watch?v=Q-BpqyOT3a8
